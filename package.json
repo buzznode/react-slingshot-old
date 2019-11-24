@@ -40,7 +40,8 @@
     "react-redux": "6.0.1",
     "react-router-dom": "5.0.0",
     "redux": "4.0.1",
-    "redux-thunk": "2.3.0"
+    "redux-thunk": "2.3.0",
+    "set-value": "3.0.1"
   },
   "devDependencies": {
     "@babel/cli": "7.4.4",
